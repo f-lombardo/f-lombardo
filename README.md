@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Franco, I'm on my way to become a software craftman. I like Kotlin and Go, and I'm working with Java and Python too.
+
+![Franco's github stats](https://github-readme-stats.vercel.app/api?username=f-lombardo&show_icons=true&count_private=true)
 
 <!--
 **f-lombardo/f-lombardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
