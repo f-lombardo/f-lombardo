@@ -3,7 +3,7 @@ My name is Franco, I'm on my way to become a software craftsman. I like Kotlin a
 
 ![Franco's github stats](https://github-readme-stats.vercel.app/api?username=f-lombardo&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f-lombardo&show_icons=true&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f-lombardo&count_private=false)
 
 <!--
 **f-lombardo/f-lombardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
