@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Franco, I'm on my way to become a software craftsman. I like Kotlin and Go, and I'm working with Java, Typescript and PHP too.
+My name is Franco, I'm on my way to become a software craftsman. I like PHP, Kotlin and Go, and I'm working with Java and Typescript.
 
 ![Franco's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=f-lombardo&show_icons=true&count_private=true)
 
